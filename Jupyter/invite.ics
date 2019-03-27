@@ -1,0 +1,27 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:CANCEL
+BEGIN:VEVENT
+DTSTART:20190318T120000Z
+DTEND:20190322T201500Z
+DTSTAMP:20190318T135412Z
+ORGANIZER;CN=pigues19c@ncssm.edu:mailto:pigues19c@ncssm.edu
+UID:775nqp4gafad5akgemu1s35gi0@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;CN=mu
+ llane19n@ncssm.edu;X-NUM-GUESTS=0:mailto:mullane19n@ncssm.edu
+CREATED:20190318T135235Z
+DESCRIPTION:-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~::~:~::-\nPlease do not edit this section of the descriptio
+ n.\n\nThis event has a video call.\nJoin: https://meet.google.com/cof-wmrr-
+ pat\n+1 225-424-8626 PIN: 938299246#\n-::~:~::~:~:~:~:~:~:~:~:~:~:~:~:~:~:~
+ :~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~:~::~:~::-
+LAST-MODIFIED:20190318T135411Z
+LOCATION:
+SEQUENCE:1
+STATUS:CANCELLED
+SUMMARY:STUDENT SKIP WEEK
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
